@@ -1,0 +1,22 @@
+{
+    "name": "bale/yii2-bale-bot",
+    "description": "Bale bot",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","bale-bot","ربات بله"],
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "MamadAli",
+            "email": "mhmd.ali.shabani@gmail.com"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*",
+        "guzzlehttp/guzzle": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "mamadali\\bale\\": ""
+        }
+    }
+}
