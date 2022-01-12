@@ -10,10 +10,15 @@ The preferred way to install this extension is through [composer](http://getcomp
 Either run
 
 ```
-php composer.phar require --prefer-dist bale/yii2-bale-bot "*"
+php composer.phar require --prefer-dist mamadali/yii2-bale-bot "*"
 ```
 
 or add
+```
+"mamadali/yii2-bale-bot": "*"
+```
+
+to the require section of your `composer.json` file.
  
 Usage
 -----
